@@ -45,5 +45,5 @@ The columns in the given dataset are as follows.
 
 ⮚	Finally done deployment using flask framework.
 
-![image](https://user-images.githubusercontent.com/85214522/123389557-a2ae5e80-d5b7-11eb-87d2-417ad111f769.png)
+![image](https://user-images.githubusercontent.com/85214522/123390335-6d564080-d5b8-11eb-80a7-48d0dbb53381.png)
 
