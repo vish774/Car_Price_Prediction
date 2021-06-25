@@ -25,24 +25,25 @@ The columns in the given dataset are as follows.
 8.Owner ==> owner name already converted to 0,1,3
 
 
-Topics to be Discussed:
+●	Responsibilities:
 
-1.Importing the necessary libraries
+⮚	Created a new environment to avoid interference in project if any of the packages or libraries get updated in future.
 
-2.Importing the Dataset
+⮚	Collected data from Kaggle.
 
-3.Exploring the Dataset
+⮚	Understood the insights of the data by doing extensive EDA by using various plotting techniques with the help of matplotlib and seaborn visualization libraries.
 
-4.Feature Engineering
-       -Handling the Missing Values 
-       -Encoding(converting categorical data into numeric data
-       
-5.EDA
+⮚	Performed various feature engineering techniques like handling missing values, cleaning the data, encoding categorical data into numerical data.
 
-6.Splitting the Dataset
+⮚	Plotted feature importance plots like Heatmap and ExtraTreeRegressor to find which features are important for the model and to find out the relationship between all the features.
 
-7.Evaluating the Model 
+⮚	Further divided the data into train and test splits in the ratio of 80% and 20%.
 
-8.Hyperparameter Tunning
+⮚	Applied various machine learning algorithms on the dataset and performed Hyper Parameter Tuning techniques like GridSearchCV and RandomisedSearchCV to find out the best parameters.
 
-9.Metrics(Scatter plot & Dist plot)
+⮚	Saved the model into a pickle file which is also known as Serialization.
+
+⮚	Finally done deployment using flask framework.
+
+![image](https://user-images.githubusercontent.com/85214522/123389557-a2ae5e80-d5b7-11eb-87d2-417ad111f769.png)
+
